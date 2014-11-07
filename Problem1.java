@@ -1,6 +1,7 @@
+package fundamentals;
 
 import java.util.Scanner;
-public class RightAngle_Trinagle {
+public class Problem1 {
 	
 	// find either it is right angle triangle or not 
 
